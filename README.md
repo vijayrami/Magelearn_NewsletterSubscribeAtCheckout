@@ -4,3 +4,5 @@ This module allows to enable a newsletter subscription checkbox on the checkout 
 # Screen Shots
 
 [![image.png](https://i.postimg.cc/QtJ0wyGG/image.png)](https://postimg.cc/mzhYFVg8)
+
+[![image-1.png](https://i.postimg.cc/X7WkWKcN/image-1.png)](https://postimg.cc/XX2CcCzt)
