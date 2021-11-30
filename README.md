@@ -9,4 +9,3 @@ Customers can subscribe to your newsletter list in Marketing > Communications > 
 [![image.png](https://i.postimg.cc/QtJ0wyGG/image.png)](https://postimg.cc/mzhYFVg8)
 
 [![image-1.png](https://i.postimg.cc/X7WkWKcN/image-1.png)](https://postimg.cc/XX2CcCzt)
->>>>>>> a76d4d091bfd155f1de84e0119fbbfbcc4ecc98a
